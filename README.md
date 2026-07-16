@@ -15,4 +15,5 @@ Key Features & Workflow
 
 Note: Live dashboard publishing is temporarily on standby due to a temporary Tableau Public server error. The interactive link will be updated here as soon as it goes live.
 
-    Interactive Dashboard: [Link to Tableau Public Dashboard - Coming Soon]
+    Interactive Dashboard: [[Link to Tableau Public Dashboard - Coming Soon]
+https://public.tableau.com/app/profile/erick.golo/viz/Dynamic_supply_chain_analysis/DynamicSupplyChainDashboard
